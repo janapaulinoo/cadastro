@@ -1,0 +1,42 @@
+button {
+    background-color: black; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+  }
+  h2{
+    color: #1b0210;
+    font-style: italic;
+    font-family: Verdana;
+}
+body {
+  background: linear-gradient( 90deg , rgb(150, 235, 220), rgb(155, 240, 240));
+}
+
+.container {
+  column-width: 200px;
+  column-gap: 20px;
+}
+
+.card {
+  break-inside: avoid;
+  page-break-inside: avoid;
+  background-color: rgb(98, 215, 219);
+  border: 2px solid rgb(11, 30, 37);
+  padding: 10px;
+  margin: 0 0 1em 0;
+}
+div{
+  margin-left: 32%;
+  margin-top: 3%;
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+   text-decoration: underline; 
+
+}

@@ -1,0 +1,14 @@
+h1{
+    text-align: center; 
+    margin-top: 20%;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    text-decoration: overline underline;
+    font-family:Segoe Script,Arial Black;
+    background-color: beige;
+}
+body {
+    background: linear-gradient( 90deg , rgb(51, 214, 214), rgb(60, 157, 202));
+  }
+  
+  
